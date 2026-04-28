@@ -175,5 +175,7 @@ This project is intended for academic and research purposes.
 
 ## Author
 
-Aqib Hanif  
+Name: Aqib Hanif  
+Assigned By: Dr. Muhammad Ishaq
+
 GitHub: https://github.com/Aqib-Hanif
