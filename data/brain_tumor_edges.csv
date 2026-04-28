@@ -1,0 +1,7 @@
+source,target,relation
+EGFR,Glioblastoma_IDH_wildtype,MUTATED_IN
+IDH1,LowGradeGlioma_IDH_mutant,MUTATED_IN
+MGMT,Glioblastoma_IDH_wildtype,ASSOCIATED_WITH
+Temozolomide,Glioblastoma_IDH_wildtype,TREATS
+Bevacizumab,Glioblastoma_IDH_wildtype,TREATS
+Temozolomide,MGMT,TARGETS
